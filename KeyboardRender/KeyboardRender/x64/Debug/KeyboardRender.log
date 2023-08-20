@@ -1,0 +1,43 @@
+﻿  Camera.cpp
+  Cylinder.cpp
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\KeyboardCable.h(21,66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Cylinder.cpp(22,24): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Cylinder.cpp(23,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  EBO.cpp
+  Keyboard.cpp
+  Main.cpp
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\KeyboardCable.h(21,66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Main.cpp(265,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Main.cpp(269,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Mesh.cpp(69,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Mesh.cpp(86,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Mesh.cpp(103,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Mesh.cpp(120,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ShaderClass.cpp
+  Texture.cpp
+  Torus.cpp
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\KeyboardCable.h(21,66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Torus.cpp(65,49): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\Torus.cpp(66,57): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  VAO.cpp
+C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\KeyboardRender\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  KeyboardRender.vcxproj -> C:\Users\hatch\OneDrive\SNHU\CS-330 Comp Graphic and Visualization\KeyboardRender\x64\Debug\KeyboardRender.exe
